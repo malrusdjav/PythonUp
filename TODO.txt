@@ -1,3 +1,4 @@
 1) add different topics: functions, OOP, genexps, iterators, lambda functions and so on
 
-2) add different libraries (separate directory for each one)
+2) print("Directory '% s' created" % directory)
+3) {}, format
